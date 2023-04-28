@@ -1,6 +1,6 @@
 # ListShopping
 
-Uma breve descrição do projeto.
+Esse projeto é uma lista de compras colaborativa, onde o usuário pode criar uma lista de compras e compartilhá-la através de redes sociais ou e-mail. Além disso, a pessoa com quem o usuário compartilhou a lista pode adicionar novos itens à lista, desde que o usuário permita. Essa funcionalidade torna a compra mais fácil e organizada, especialmente para famílias ou grupos de amigos que compartilham tarefas e responsabilidades.
 
 ## Regras de Commit
 
