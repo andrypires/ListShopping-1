@@ -1,6 +1,17 @@
 # ListShopping
 
-Esse projeto é uma lista de compras colaborativa, onde o usuário pode criar uma lista de compras e compartilhá-la através de redes sociais ou e-mail. Além disso, a pessoa com quem o usuário compartilhou a lista pode adicionar novos itens à lista, desde que o usuário permita. Essa funcionalidade torna a compra mais fácil e organizada, especialmente para famílias ou grupos de amigos que compartilham tarefas e responsabilidades.
+Este projeto será desenvolvido utilizando as seguintes linguagens e ferramentas:
+
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter: um framework open-source criado pelo Google para desenvolvimento de aplicativos móveis Android, iOS e Web.
+- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#: uma linguagem de programação moderna, simples e orientada a objetos, utilizada principalmente para desenvolvimento de aplicativos Windows e jogos.
+- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase: uma plataforma do Google que oferece diversas ferramentas para desenvolvimento de aplicativos, como autenticação, armazenamento de dados, hospedagem e notificações.
+- ![Canvas](https://img.icons8.com/color/48/000000/canvas.png) Canvas: uma API do HTML5 utilizada para desenhar gráficos, animações e outros tipos de conteúdo visual em tempo real.
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML: a linguagem de marcação utilizada para criar páginas web.
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript: uma linguagem de programação interpretada, utilizada para criar interatividade e dinamismo em páginas web.
+- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart: uma linguagem de programação desenvolvida pelo Google, utilizada principalmente para desenvolvimento de aplicativos móveis com o Flutter.
+
+O objetivo deste projeto é criar uma lista de compras colaborativa, na qual os usuários possam criar, compartilhar e editar listas de compras com outras pessoas, tornando a compra mais fácil e organizada, especialmente para famílias ou grupos de amigos que compartilham tarefas e responsabilidades.
+
 
 ## Regras de Commit
 
