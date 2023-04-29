@@ -3,7 +3,7 @@
 Este projeto será desenvolvido utilizando as seguintes linguagens e ferramentas:
 
 - ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter: um framework open-source criado pelo Google para desenvolvimento de aplicativos móveis Android, iOS e Web.
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#: uma linguagem de programação moderna, simples e orientada a objetos, utilizada principalmente para desenvolvimento de aplicativos Windows e jogos.
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java/Spring Boot: uma plataforma de desenvolvimento poderosa e versátil que permite a criação de aplicativos e serviços em nuvem altamente escaláveis e seguros. Java é uma linguagem de programação popular, com uma comunidade ativa e vasta biblioteca de recursos, enquanto Spring Boot é um framework que simplifica a criação de aplicativos Java, fornecendo recursos para a criação rápida de aplicativos com configuração mínima. Juntos, Java e Spring Boot oferecem uma plataforma robusta e flexível para criar aplicativos e serviços de alta qualidade.
 - ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase: uma plataforma do Google que oferece diversas ferramentas para desenvolvimento de aplicativos, como autenticação, armazenamento de dados, hospedagem e notificações.
 - ![Canvas](https://img.icons8.com/color/48/000000/canvas.png) Canvas: uma API do HTML5 utilizada para desenhar gráficos, animações e outros tipos de conteúdo visual em tempo real.
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML: a linguagem de marcação utilizada para criar páginas web.
